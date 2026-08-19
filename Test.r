@@ -1,1 +1,1 @@
-#This is a text edit on the add-notes branch
+#This is a text edit on the add-notes branch. Conflicted change
